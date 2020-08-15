@@ -1,6 +1,7 @@
 "use strict";
-// FUNCIONES BASICAS
-// FUNCION 1
+// FUNCIONES BASICAS EN TYPESCRIPT
+
+// FUNCION 1 
 var Heroe = "Flash";
 function imprime_heroe() {
     return Heroe;
